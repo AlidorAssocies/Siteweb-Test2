@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="/https://alidorassocies.github.io/siteweb-test/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://alidorassocies.github.io/siteweb-test/</link>
+	<atom:link href="/Users/macadmin/Documents/GitHub/Siteweb-Test/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>/Users/macadmin/Documents/GitHub/Siteweb-Test/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Fri, 08 Apr 2022 03:56:17 +0000</lastBuildDate>
 	<sy:updatePeriod>

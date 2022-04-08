@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="/https://alidorassocies.github.io/siteweb-test/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://alidorassocies.github.io/siteweb-test/hello-world/</link>
+	<atom:link href="/Users/macadmin/Documents/GitHub/Siteweb-Test/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>/Users/macadmin/Documents/GitHub/Siteweb-Test/hello-world/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Fri, 08 Apr 2022 03:56:17 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>/https://alidorassocies.github.io/siteweb-test/hello-world/#comment-1</link>
+		<link>/Users/macadmin/Documents/GitHub/Siteweb-Test/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Fri, 08 Apr 2022 03:56:17 +0000</pubDate>
-		<guid isPermaLink="false">/https://alidorassocies.github.io/siteweb-test/?p=1#comment-1</guid>
+		<guid isPermaLink="false">/Users/macadmin/Documents/GitHub/Siteweb-Test/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
